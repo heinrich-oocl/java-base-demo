@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.base.BaseDemoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-24T07:30:36" hostname="SIUHE-W11" time="0.015">
+  <properties/>
+  <testcase name="shouldBePositive()" classname="demo.base.BaseDemoTest" time="0.012"/>
+  <testcase name="shouldBeNegative()" classname="demo.base.BaseDemoTest" time="0.001"/>
+  <testcase name="should_return_hello_world()" classname="demo.base.BaseDemoTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
